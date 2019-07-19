@@ -8,7 +8,7 @@ new Vue({
       return string.split('').reverse().join('');
     },
     reverseMessage() {
-    	console.log('computerd function is run');
+    	console.log('computer d function is run');
     	return this.message.split('').reverse().split('');
     }
   }
